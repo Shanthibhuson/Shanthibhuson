@@ -1,6 +1,10 @@
-<h1 align="center">Hi, I'm Shanthibhuson 👋</h1>
 <p align="center">
-  Building things with Python, JavaScript & TypeScript — currently exploring RAG-based AI systems.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:34D399&height=180&section=header&text=Shanthibhuson&fontSize=48&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38" alt="header banner"/>
+</p>
+<p align="center">
+  <a href="https://github.com/Shanthibhuson">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=34D399&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Shanthibhuson+%F0%9F%91%8B;Building+with+Python%2C+JavaScript+%26+TypeScript;Exploring+RAG-based+AI+systems;Always+learning%2C+always+building" alt="Typing SVG"/>
+  </a>
 </p>
 <p align="center">
   <a href="https://github.com/Shanthibhuson"><img src="https://img.shields.io/badge/GitHub-Shanthibhuson-181717?style=flat&logo=github" alt="GitHub"/></a>
