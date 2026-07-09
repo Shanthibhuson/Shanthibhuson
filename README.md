@@ -1,50 +1,106 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:34D399&height=180&section=header&text=Shanthibhuson&fontSize=48&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:34D399&height=180&section=header&text=Shanthibhuson%20S&fontSize=42&fontColor=0D1117&animation=fadeIn&fontAlignY=38" alt="header banner"/>
 </p>
 <p align="center">
-  <a href="https://github.com/Shanthibhuson">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=34D399&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Shanthibhuson+%F0%9F%91%8B;Building+with+Python%2C+JavaScript+%26+TypeScript;Exploring+RAG-based+AI+systems;Always+learning%2C+always+building" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=34D399&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shanthibhuson+%F0%9F%91%8B;Full+Stack+Developer+%2B+ML+%2B+Cybersecurity;React.js+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Firebase;2+Internships.+5%2B+Real-World+Projects.;Final+Year+%C2%B7+Graduating+2027" alt="Typing SVG"/>
 </p>
 <p align="center">
-  <a href="https://github.com/Shanthibhuson"><img src="https://img.shields.io/badge/GitHub-Shanthibhuson-181717?style=flat&logo=github" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Full--Time%20%26%20Internship-2027-34D399?style=for-the-badge&labelColor=0D1117" alt="Open to work"/>
+  <img src="https://komarev.com/ghpvc/?username=Shanthibhuson&color=34D399&style=for-the-badge" alt="Visitor Count"/>
 </p>
+Full Stack Developer (React · Node · Firebase) · ML & Cybersecurity · Final Year CSE · Graduating 2027
 
-🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-</p>
+Built multiple real-world projects across web development, machine learning, and cybersecurity —
+from AI career guidance platforms to malware and phishing detection systems.
+Not just coursework — systems that actually work.
 
-🚀 Featured Projects
 
-College-Helpdesk-RAG-Chatbot
-A RAG-based conversational AI system for college student support, with automated ticket escalation and a staff analytics dashboard — built entirely on free-tier tools.
 
-chatify
-A JavaScript-based chat application.
 
-Build-Blocks
-A TypeScript project focused on modular, reusable building blocks.
+🚧 Right Now
 
-RVS-RESIDENTIAL-HOUSING
-An HTML-based residential housing project.
+Interning as a Full Stack Developer at QSpiders (Test Yantra) — building responsive web apps with React.js and Core Java, sharpening OOP and clean-code practices.
 
-RD-INFO-TECHNOLOGY
-A Python project.
+Strengthening DSA through consistent LeetCode practice · deepening Machine Learning & Cybersecurity fundamentals.
+Targeting product-based companies for 2027.
+
+
+💼 Projects
+
+ProjectWhat it doesStackAI Career Guidance PlatformAI-based system for personalized career recommendations, with Firebase authReact.js · Firebase · JavaScriptAI Job Fraud Detection SystemClassifies job postings as genuine/fraudulent with a confidence scoring systemReact.js · Node.js · Python · REST APIsMalware Detection SystemML-based malware classification using feature engineeringPython · Scikit-learnGesture Controlled SpeakerReal-time hand gesture recognition for device controlPython · OpenCV · MediaPipeURL Phishing Detection SystemDetects malicious URLs via classification modelsPython · Machine Learning
+
+
+🏢 Experience
+
+Full Stack Developer Intern · QSpiders (Test Yantra)  Dec 2025 – May 2026
+Developed responsive web applications using React.js and Core Java. Built reusable UI components, improved frontend performance, and strengthened debugging and clean coding practices.
+
+AI & Cyber Security Intern · RD Info Technology  Jan 2025 – Mar 2025
+Built malware and phishing detection models using Machine Learning. Worked on anomaly detection in network traffic data and developed computer vision projects using OpenCV.
+
+
+💻 Tech Stack
+
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react&theme=dark" alt="Frontend"/>
+
+Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql&theme=dark" alt="Backend"/>
+
+Languages & Core CS
+<img src="https://skillicons.dev/icons?i=java,py&theme=dark" alt="Languages"/>  SQL  DSA  OOP
+
+ML & Cybersecurity
+Scikit-learn  OpenCV  MediaPipe  Anomaly Detection  Networking
+
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" alt="Tools"/>
+
+
+🎓 Education
+
+B.Tech Computer Science & Engineering
+Jain (Deemed-to-be University), Bengaluru  2023 – Present  · CGPA: 9.0
+
+Class XII · Nalanda International Public School (CBSE)  2023  · 63%
+Class X · Nalanda International Public School (CBSE)  2021  · 79.4%
+
+
+📜 Certifications
+
+
+Full Stack Development — QSpiders
+Introduction to Cybersecurity — IBM
+Foundations: Data — Google
+Algorithms — Coursera
+Big Data Analytics — LinkedIn Learning
+Data Engineering Foundations — LinkedIn Learning
+
+
+
+🌐 Languages
+
+English · Tamil · Telugu · Hindi · Kannada
 
 
 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanthibhuson&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanthibhuson&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanthibhuson&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanthibhuson&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanthibhuson&hide_border=true&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanthibhuson&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center"><i>Thanks for stopping by!</i></p>
+🤝 Let's Connect
+
+Actively seeking Full-Time & Internship roles in Full Stack Development · Machine Learning · Cybersecurity — 2027
+
+Show Image
+Show Image
+Show Image
+
+
+<p align="center"><i>Problem Solving · Communication · Team Collaboration · Adaptability · Critical Thinking</i></p>
