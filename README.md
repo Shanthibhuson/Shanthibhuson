@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=Shanthibhuson&color=34D399&style=for-the-badge" alt="Visitor Count"/>
 </p>
 
-**Full Stack Developer (React · Node · Firebase) · ML & Cybersecurity · Final Year CSE · Graduating 2027**
+**Full Stack Developer (React · Node · Firebase) · ML & Cybersecurity · **
 
 > Built multiple real-world projects across web development, machine learning, and cybersecurity —
 > from AI career guidance platforms to malware and phishing detection systems.
