@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=Shanthibhuson&color=34D399&style=for-the-badge" alt="Visitor Count"/>
 </p>
 
-**Full Stack Developer (React · Node · Firebase) · ML & Cybersecurity · **
+**Java Full Stack Developer (React · Node · Firebase) · ML & Cybersecurity · **
 
 > Built multiple real-world projects across web development, machine learning, and cybersecurity —
 > from AI career guidance platforms to malware and phishing detection systems.
@@ -19,28 +19,28 @@
 
 ---
 
-## 🚧 Right Now
+##  Right Now
 
-Interning as a **Full Stack Developer** at **QSpiders (Test Yantra)** — building responsive web apps with React.js and Core Java, sharpening OOP and clean-code practices.
+Interning as a **Full Stack Developer** at **JSpiders ** — building responsive web apps with React.js and Core Java, sharpening OOP and clean-code practices.
 
 Strengthening **DSA** through consistent LeetCode practice · deepening **Machine Learning & Cybersecurity** fundamentals.
 Targeting product-based companies for 2027.
 
 ---
 
-## 💼 Projects
+##  Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| **AI Career Guidance Platform** | AI-based system for personalized career recommendations, with Firebase auth | React.js · Firebase · JavaScript |
-| **AI Job Fraud Detection System** | Classifies job postings as genuine/fraudulent with a confidence scoring system | React.js · Node.js · Python · REST APIs |
+| **Fullstack Email Scheduling Application** | I build the frontend using React and backend using Node.js with Express. | React.js · Node.js · PostgreSQL · Redis with BullMQ · Docker|
+| **RVS RESIDENTIAL HOUSING PROJECT** | Classifies Rental Housing postings  |HTML · CSS · JavaScript · React.js · Superbase · Python · REST APIs |
 | **Malware Detection System** | ML-based malware classification using feature engineering | Python · Scikit-learn |
 | **Gesture Controlled Speaker** | Real-time hand gesture recognition for device control | Python · OpenCV · MediaPipe |
 | **URL Phishing Detection System** | Detects malicious URLs via classification models | Python · Machine Learning |
 
 ---
 
-## 🏢 Experience
+##  Experience
 
 **Full Stack Developer Intern · QSpiders (Test Yantra)** &nbsp;`Dec 2025 – May 2026`
 Developed responsive web applications using React.js and Core Java. Built reusable UI components, improved frontend performance, and strengthened debugging and clean coding practices.
@@ -50,7 +50,7 @@ Built malware and phishing detection models using Machine Learning. Worked on an
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Frontend**
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react&theme=dark" alt="Frontend"/>
@@ -69,17 +69,17 @@ Built malware and phishing detection models using Machine Learning. Worked on an
 
 ---
 
-## 🎓 Education
+##  Education
 
 **B.Tech Computer Science & Engineering**
-Jain (Deemed-to-be University), Bengaluru &nbsp;`2023 – Present` &nbsp;· CGPA: 9.0
+Jain (Deemed-to-be University), Bengaluru &nbsp;`2023 – Present` &nbsp;· CGPA: 8.59
 
 **Class XII · Nalanda International Public School (CBSE)** &nbsp;`2023` &nbsp;· 63%
 **Class X · Nalanda International Public School (CBSE)** &nbsp;`2021` &nbsp;· 79.4%
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Full Stack Development — QSpiders
 - Introduction to Cybersecurity — IBM
@@ -90,13 +90,13 @@ Jain (Deemed-to-be University), Bengaluru &nbsp;`2023 – Present` &nbsp;· CGPA
 
 ---
 
-## 🌐 Languages
+## Languages
 
 English · Tamil · Telugu · Hindi · Kannada
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Shanthibhuson&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -109,7 +109,7 @@ English · Tamil · Telugu · Hindi · Kannada
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 *Actively seeking Full-Time & Internship roles in Full Stack Development · Machine Learning · Cybersecurity — 2027*
 
